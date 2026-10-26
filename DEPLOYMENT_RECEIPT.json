@@ -1,0 +1,14 @@
+{
+  "project": "henri-becquerel-ai",
+  "network": "Solana Devnet",
+  "cluster_url": "https://api.devnet.solana.com",
+  "mint_address": "6c1W4G1yfmbeT9bedAbbWHaP21EfqM83nDPQ5LzHoy9b",
+  "vault_account": "9d9Zya4hj346LZmQtsC3t6x8z8y5fNQvhgqwA9Q348Lz",
+  "initial_supply": 1000000,
+  "decimals": 9,
+  "creation_tx": "5pMmJzsMdAUq58q18VDGNLJ4bpmfuRpmM36M8R1GxsVBUJHYf526Re3Jzeeo4v9hu3NFihSzvha2AZahwrYawfVs",
+  "account_tx": "4LXXTT81V4ioSviZvue41Z1nnQ4NyUVSsjLAGyrGZhcxvcsK964PhRFD3ofpgJaZyi2kgfiMg5ViWkJHEH9p5G4f",
+  "mint_tx": "38wemXVq4Ktpsob4ZN6VS9a1s41iTbMhQXhxLhmBk4bHGY7JdgFAjm3UKHQjpsTt46erFFcXCdnRen7F3wseg712",
+  "solana_explorer_mint": "https://explorer.solana.com/address/6c1W4G1yfmbeT9bedAbbWHaP21EfqM83nDPQ5LzHoy9b?cluster=devnet",
+  "timestamp": "2026-10-26 16:37:13 UTC"
+}
